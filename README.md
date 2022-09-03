@@ -18,7 +18,7 @@ Fonctions :
  Pilule de l'oublie
  Lunettes Vision Thermique
  Gilet Pare-Balles en Item
- Debug (uniquement pour les admins)  :emoji_2: Si vous ne voyez pas le point VEHICULE
+ Debug (uniquement pour les admins)   Si vous ne voyez pas le point VEHICULE
 
 *Free Job*
 
